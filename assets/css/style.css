@@ -1,0 +1,24 @@
+/* assets/css/style.css */
+
+.bg-gradient {
+    background: linear-gradient(135deg, #1d976c, #2b32b2);
+    min-height: 100vh;
+}
+
+.login-card {
+    max-width: 380px;
+    width: 100%;
+    border-radius: 12px;
+}
+
+.navbar-brand {
+    font-weight: 600;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.stat-card h3 {
+    font-size: 1.75rem;
+}
